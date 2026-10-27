@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or adapt this guide, please cite it as below."
+title: "The Hive Mind: How to design AI agents that work as one"
+abstract: "A research guide to designing AI agents in nine parts (identity, shared memory, skills, tools, method, limits, loop, the hive and a proposed nervous system), each checked against published research and practice from 85 sources."
+authors:
+  - family-names: Agrici
+    given-names: Daniel
+    website: "https://agricidaniel.com"
+version: "1.0.0"
+date-released: "2026-10-28"
+license: CC-BY-4.0
+repository-code: "https://github.com/AgriciDaniel/hive-mind"
+url: "https://agricidaniel.com/blog/how-to-design-an-ai-agent"
+keywords:
+  - AI agents
+  - agent design
+  - multi-agent systems
+  - AI safety
+  - prompt injection
