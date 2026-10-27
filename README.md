@@ -62,6 +62,29 @@ Every chapter follows the same shape: the idea in plain words, the drawings one 
 and practice say, an honest comparison (matches, goes further, watch for), and a checklist you can apply to your own
 agents today.
 
+## The study sheets
+
+Each part has its own sheet of drawings. In the guide they are cut into single studies, one for each idea. Click a
+sheet for the full size.
+
+<table>
+  <tr>
+    <td align="center"><a href="drawings/01-identity.png"><img src="drawings/01-identity.png" width="260" alt="Study sheet: identity"></a><br><sub>1. Identity</sub></td>
+    <td align="center"><a href="drawings/02-shared-memory.png"><img src="drawings/02-shared-memory.png" width="260" alt="Study sheet: shared memory"></a><br><sub>2. Shared memory</sub></td>
+    <td align="center"><a href="drawings/03-skills.png"><img src="drawings/03-skills.png" width="260" alt="Study sheet: skills"></a><br><sub>3. Skills</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="drawings/04-tools.png"><img src="drawings/04-tools.png" width="260" alt="Study sheet: tools"></a><br><sub>4. Tools</sub></td>
+    <td align="center"><a href="drawings/05-method.png"><img src="drawings/05-method.png" width="260" alt="Study sheet: method"></a><br><sub>5. Method</sub></td>
+    <td align="center"><a href="drawings/06-limits.png"><img src="drawings/06-limits.png" width="260" alt="Study sheet: limits"></a><br><sub>6. Limits</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="drawings/07-loop.png"><img src="drawings/07-loop.png" width="260" alt="Study sheet: loop"></a><br><sub>7. Loop</sub></td>
+    <td align="center"><a href="drawings/08-the-hive.png"><img src="drawings/08-the-hive.png" width="260" alt="Study sheet: the hive"></a><br><sub>8. The hive</sub></td>
+    <td align="center"><a href="drawings/09-the-nervous-system.png"><img src="drawings/09-the-nervous-system.png" width="260" alt="Study sheet: the nervous system"></a><br><sub>9. The nervous system</sub></td>
+  </tr>
+</table>
+
 ## One thread runs through all of it
 
 > **Written rules guide an agent, but only enforcement controls it.**
@@ -127,29 +150,6 @@ adding agents only when the work needs them. Prove each layer before you add the
 | 6. Loop | An independent verifier and 20 or more test briefs | Quality is measured, not assumed |
 | 7. Team | A front door, a coordinator, one handoff contract | More agents add capacity, not confusion |
 | 8. Nerves | A live board, typed results, an escalation ladder, a trace | The team can see, protect and audit itself |
-
-## The study sheets
-
-Each part has its own sheet of drawings. In the guide they are cut into single studies, one for each idea. Click a
-sheet for the full size.
-
-<table>
-  <tr>
-    <td align="center"><a href="drawings/01-identity.png"><img src="drawings/01-identity.png" width="260" alt="Study sheet: identity"></a><br><sub>1. Identity</sub></td>
-    <td align="center"><a href="drawings/02-shared-memory.png"><img src="drawings/02-shared-memory.png" width="260" alt="Study sheet: shared memory"></a><br><sub>2. Shared memory</sub></td>
-    <td align="center"><a href="drawings/03-skills.png"><img src="drawings/03-skills.png" width="260" alt="Study sheet: skills"></a><br><sub>3. Skills</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="drawings/04-tools.png"><img src="drawings/04-tools.png" width="260" alt="Study sheet: tools"></a><br><sub>4. Tools</sub></td>
-    <td align="center"><a href="drawings/05-method.png"><img src="drawings/05-method.png" width="260" alt="Study sheet: method"></a><br><sub>5. Method</sub></td>
-    <td align="center"><a href="drawings/06-limits.png"><img src="drawings/06-limits.png" width="260" alt="Study sheet: limits"></a><br><sub>6. Limits</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="drawings/07-loop.png"><img src="drawings/07-loop.png" width="260" alt="Study sheet: loop"></a><br><sub>7. Loop</sub></td>
-    <td align="center"><a href="drawings/08-the-hive.png"><img src="drawings/08-the-hive.png" width="260" alt="Study sheet: the hive"></a><br><sub>8. The hive</sub></td>
-    <td align="center"><a href="drawings/09-the-nervous-system.png"><img src="drawings/09-the-nervous-system.png" width="260" alt="Study sheet: the nervous system"></a><br><sub>9. The nervous system</sub></td>
-  </tr>
-</table>
 
 ## About the evidence
 
